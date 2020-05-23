@@ -1,6 +1,6 @@
 test: Fine Jobe
 message: Welcome to External properties ${test}
-listMessage: i,love,you,Mona
+listMessage: i,love,you,Mona,Darling
 mapvalue: "{connection:'//localhost',UserName:'root',Pwd:'root'}"
 emp: 
   f_Name: Manish
